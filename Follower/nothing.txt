@@ -1,6 +1,0 @@
-futurefactz
-tech_insider
-futurefactz
-
-with open('nothing.txt', 'r') as fin:
-    data = fin.read().splitlines(True)
